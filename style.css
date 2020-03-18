@@ -32,6 +32,15 @@ p {
 	color: #333333;
 }
 
+.bin{
+font-family: 'Helvetica';
+position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+
+}
+
 span a {
 	font-size: 18px;
 	color: #cccccc;
